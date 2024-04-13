@@ -1,3 +1,5 @@
+# problem: https://pl.spoj.com/problems/PRIME_T/
+
 def prime(n):
     if n < 2:
         return False
